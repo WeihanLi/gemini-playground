@@ -7,7 +7,7 @@
 B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
 
 ## 项目简介
-#### Demo: [https://play.210718.xyz](https://play.210718.xyz)
+#### Demo: <https://spark-gemini-play.deno.dev/>
 只需准备一个Gemini API Key，10秒即可部署一个Gemini多模态对话的网站。
 不限地区/网络环境，打开即用，<b>适配了手机端</b>。
 使用Deno/Cloudflare Worker无服务器免费部署。
